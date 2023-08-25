@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶｋＯＭＩ ＢＯＴ Ｖ８ꫂ<br></h1>
 <p align="center">
-<img src="https://github.com/GX-ANISAN/KOMIBOT-V8/assets/141144482/f5f095b0-cda0-4bf8-bef8-ebd14c3b7e2b" width="540" height="280" />
+<img src="https://github.com/GX-ANISAN/KOMIBOT-V8/assets/141144482/39d9e050-c7b4-438f-8b89-cafeaaffb3a7" width="540" height="280" />
 </p>
 
 <p align="center">
